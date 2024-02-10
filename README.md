@@ -15,7 +15,7 @@
 ### Objective: 
 - Leverage statistical modeling techniques, specifically linear & polynomial regression, to analyze and predict individual medical costs billed by health insurance based on a variety of factors listed above. Through this analysis, the project aims to uncover the underlying patterns and relationships between these factors and insurance charges, thereby providing insights into how different attributes contribute to the determination of insurance premiums.
 
-### [Full Data Analysis Here](https://rpubs.com/numberhumanoid/1147343)
+### ✨ [Full Data Analysis Here](https://rpubs.com/numberhumanoid/1147343) ✨
 
 ## Data Source
 - [Data Source](Assets/insurance.csv)
